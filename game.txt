@@ -4,13 +4,13 @@ public class Main
 
     int height = 170;
     
-    if (height<160){
+    if (height>160){
     
-    System.out.println("you can enter");
+    System.out.println("you can enter the rollercoaster !");
     }
     
     
-    else{  System.out.println("you can't enter");
+    else{  System.out.println("you can't enter the rollercoaster!");
         
         
     }
